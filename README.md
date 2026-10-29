@@ -193,3 +193,7 @@ non-commercial purposes, with credit required and reselling (original or
 modified) forbidden. Full terms in [LICENSE.md](LICENSE.md) — read it, it's
 short. This fork is distributed under those same terms and does not modify
 them.
+
+Fork modifications © 2026 **KMT Studio**. The original work remains
+© 2026 **Ixar**; the original copyright notice and license are retained
+unchanged.
